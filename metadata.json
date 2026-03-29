@@ -1,0 +1,5 @@
+{
+  "name": "IntelliEval - AI Test Evaluator",
+  "description": "An intelligent test evaluation system that automatically analyzes student answers against reference answers using Gemini AI.",
+  "requestFramePermissions": []
+}
